@@ -19,7 +19,7 @@ void	ft_print_comb(void)
 				write(1, &z, 1);
 				if (x != '7')
 					write(1, ",", 1);
-                    write(1, " ", 1);
+                   	write(1, " ", 1);
 				z++;
 			}
 			y++;
